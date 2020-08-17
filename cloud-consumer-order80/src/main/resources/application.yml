@@ -1,0 +1,7 @@
+server:
+  port: 800
+
+spring:
+  application:
+    name: cloud-consumer-order80
+
