@@ -1,7 +1,7 @@
 package com.amplesky.cloud.controller;
 
-import com.amplesky.cloud.base.CommonResult;
 import com.amplesky.cloud.entitles.Payment;
+import com.amplesky.cloud.entitles.base.CommonResult;
 import com.amplesky.cloud.service.PaymentService;
 import com.sun.media.jfxmedia.logging.Logger;
 import lombok.extern.slf4j.Slf4j;

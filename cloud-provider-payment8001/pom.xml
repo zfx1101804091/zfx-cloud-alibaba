@@ -12,6 +12,13 @@
     <artifactId>cloud-provider-payment8001</artifactId>
 
     <dependencies>
+        
+        <dependency>
+            <groupId>com.amplesky.cloud</groupId>
+            <artifactId>cloud-api-commons</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+        
         <!--actuator和web基本上是一起的-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
