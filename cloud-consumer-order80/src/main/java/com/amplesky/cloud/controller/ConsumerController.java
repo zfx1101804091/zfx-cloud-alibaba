@@ -3,10 +3,8 @@ package com.amplesky.cloud.controller;
 import com.amplesky.cloud.base.CommonResult;
 import com.amplesky.cloud.entitles.Payment;
 import lombok.extern.slf4j.Slf4j;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
